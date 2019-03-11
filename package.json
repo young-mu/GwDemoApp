@@ -1,0 +1,13 @@
+{
+    "name": "gwdemoapp",
+    "version": "0.1.0",
+    "description": "",
+    "author": "",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "mini-mqtt-client": "^0.1.0"
+        },
+        "version": 1
+    }
+}

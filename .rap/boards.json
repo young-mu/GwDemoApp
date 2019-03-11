@@ -1,0 +1,10 @@
+{
+    "ruff": {
+        "boards": {
+            "am335x-hzmc": {
+                "version": "0.1.9",
+                "isActive": true
+            }
+        }
+    }
+}

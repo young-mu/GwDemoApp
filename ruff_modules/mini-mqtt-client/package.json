@@ -1,0 +1,27 @@
+{
+    "name": "mini-mqtt-client",
+    "description": "A mini mqtt client library ported for Ruff",
+    "version": "0.1.0",
+    "keywords": [
+        "mqtt",
+        "publish/subscribe",
+        "publish",
+        "subscribe"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+    },
+    "engines": {
+        "ruff": "^1.9.0",
+        "ruff-lite": "^0.9.1"
+    },
+    "devDependencies": {
+        "eslint": "^1.3.1"
+    },
+    "ruff": {
+        "devDependencies": {
+            "t": "^0.1.6"
+        }
+    }
+}
